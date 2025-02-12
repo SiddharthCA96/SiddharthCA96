@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Siddharth! 👋
 
-<!--
-**SiddharthCA96/SiddharthCA96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a knack for solving complex problems and building efficient, scalable solutions. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on various open-source projects and contributing to the developer community.
+- 🌱 I’m currently learning advanced topics in Backend Development.
+- 💬 Ask me about software development, algorithms, data structures, and anything tech-related.
+- 📫 How to reach me: [Email](mailto:ss6156852@gmail.com)
+- ⚡ Fun fact: I love watching football and anime in my free time.
+
+## 🛠️ Skills
+
+- **Languages**: Python, JavaScript, TypeScript, C, C++
+- **Frameworks**: React, Node.js, Express, Next.js, Hono
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Tools**: Git, Docker, VSCode, Prisma
+
+## 📈 GitHub Stats
+
+![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddharthCA96&show_icons=true&theme=radical)
+
+## 💼 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/siddharth-singh-ca96/)](https://www.linkedin.com/in/siddharth-singh-ca96/)
+
+Thanks for stopping by! Have a great day! 😄
