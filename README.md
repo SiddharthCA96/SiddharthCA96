@@ -13,7 +13,7 @@ I'm a passionate software developer with a knack for solving complex problems an
 ## 🛠️ Skills
 
 - **Languages**: Python, JavaScript, TypeScript, C, C++
-- **Frameworks**: React, Node.js, Express, Next.js, Hono
+- **Frameworks and libraries**: React, Node.js, Express, Next.js, Hono
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Tools**: Git, Docker, VSCode, Prisma
 
